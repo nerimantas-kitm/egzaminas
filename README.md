@@ -1,0 +1,1 @@
+# pirmiausiai registruotis, po to prisijungti adminu, sukurti kategorijas, tada galima deti filmus ir kaip vartotojas dirbti
